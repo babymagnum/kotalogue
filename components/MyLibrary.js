@@ -1,0 +1,1 @@
+//height of bottom tab navigation is 49
